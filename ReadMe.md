@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IOT and Spring<br>👯 I’m looking to collaborate on Flutter and Spring Projects<br>🌱 I’m currently learning Spring and Kafka<br>💬 Ask me about Flutter<br>
+🔭 I’m currently working on IOT and Spring<br>👯 I’m looking to collaborate on Flutter and Spring Projects<br>🌱 I’m currently learning Spring<br>💬 Ask me about Flutter<br>
 
 
 ## 🌐 Socials:
