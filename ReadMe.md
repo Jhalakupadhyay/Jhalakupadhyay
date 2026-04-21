@@ -77,13 +77,19 @@
 
 ### 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhalakupadhyay&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhalakupadhyay&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jhalakupadhyay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Jhalakupadhyay&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhalakupadhyay&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhalakupadhyay&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=450" alt="Top Languages" />
 </p>
 
 ---
@@ -91,7 +97,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhalakupadhyay&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jhalakupadhyay&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
