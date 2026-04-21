@@ -94,18 +94,8 @@
 
 ---
 
-### 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhalakupadhyay&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=Jhalakupadhyay&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jhalakupadhyay&icon=6&color=9" alt="Visitor count"/>
-</p>
+<p align="center"><em>Thanks for stopping by — feel free to reach out if you're working on something interesting.</em></p>
