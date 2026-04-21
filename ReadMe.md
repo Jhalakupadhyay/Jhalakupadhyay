@@ -80,7 +80,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jhalakupadhyay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Jhalakupadhyay&show_icons=true&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=Jhalakupadhyay&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
@@ -89,7 +89,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhalakupadhyay&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhalakupadhyay&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=450" alt="Top Languages" />
 </p>
 
 ---
